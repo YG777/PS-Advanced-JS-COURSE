@@ -1,0 +1,15 @@
+https://repl.it/@YG777/scope-PS-TUTORIAL-NOTES
+
+https://repl.it/@YG777/THIS-PS-Tutorial-notes
+
+https://repl.it/@YG777/THIS-NEW-KEYWORD-PS-Tutorial-notes
+
+https://repl.it/@YG777/CLOSURE-PS-Tutorial
+
+https://repl.it/@YG777/CLOSURE-LOOPS-and-BLOCK-SCOPE-PS-Tutorial
+
+https://repl.it/@YG777/MODULE-PATTERN-PS-Tutorial
+
+https://repl.it/@YG777/OLOO-OBJECTS-LINKED-TO-OTHER-OBJECTS-PS-Tutorial
+
+https://repl.it/@YG777/CALLBACKS-GENERATORS-PROMISES-PS-Tutorial
